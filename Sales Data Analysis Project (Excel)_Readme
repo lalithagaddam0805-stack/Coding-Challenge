@@ -1,0 +1,75 @@
+Sales Data Analysis Project (Excel)
+ Project Overview
+
+This project simulates a real-world business scenario where a Junior Data Analyst analyzes raw sales data to generate meaningful insights.
+
+The goal is to understand regional performance and identify top-performing products using Excel.
+Business Scenario
+I worked as a Junior Data Analyst for a retail company.
+The sales team provided raw sales data and requested analysis of regional performance.
+
+Objectives
+Clean the raw data
+Calculate Total Revenue
+Analyze revenue by Region and Category
+Identify Top 5 products by revenue
+Visualize data using charts
+
+Tools Used
+Microsoft Excel
+Pivot Tables
+Basic Excel Formulas
+
+Steps Performed
+1. Data Cleaning
+Removed duplicate records
+Handled missing values
+Removed extra spaces using TRIM function
+Ensured correct data formats (Date, Number)
+
+2. Revenue Calculation
+
+Created a new column:
+Revenue = Quantity × Unit Price
+
+3. Pivot Table Analysis
+* Revenue by Region
+Used Pivot Table
+Grouped by Region
+Calculated total revenue
+
+* Revenue by Category
+Grouped by Product Category
+Calculated total revenue
+
+4. Top 5 Products
+Created Pivot Table with Product and Revenue
+Sorted data in descending order
+Applied Top 5 filter
+
+5. Data Visualization
+Created Column Chart
+Visualized Revenue by Region
+Helped in understanding performance easily
+
+--Key Insights
+Identified highest performing region
+Found top revenue-generating products
+Compared category-wise performance
+Outcome
+
+This project helped me understand:
+
+Data cleaning techniques
+Excel formulas
+Pivot Tables
+Data visualization
+
+ Files Included
+Raw Data Excel File
+Cleaned Data File
+Dashboard / Charts
+
+
+ Conclusion
+This project demonstrates my ability to analyze data and generate business insights using Excel.
