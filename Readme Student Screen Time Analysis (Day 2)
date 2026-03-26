@@ -1,0 +1,28 @@
+Student Screen Time Analysis (Day 2)
+
+This project analyzes the relationship between students' screen time and their academic performance (test scores).
+The goal is to identify patterns and understand how screen time affects learning outcomes.
+
+Objectives
+Clean and preprocess raw data
+Analyze screen time vs test scores
+Identify trends and patterns
+Create visualizations for better understanding
+
+Dataset Description
+The dataset contains the following columns:
+
+Student ID – Unique identifier
+Screen Time (hours) – Daily screen usage
+Test Score – Academic performance
+
+Data Cleaning Steps
+Handled missing values
+Checked for duplicate records
+Converted data types where required
+Removed inconsistent values
+
+Calculated average test scores
+Grouped students based on screen time
+Compared performance across categories
+
